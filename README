@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=941
+
+This syntax script will colorize UN/EDIFACT messages.
+All formatting errors are reported with the "Error" highlighting.
+
+Hooks are provided for extensibility (including EDIFACT messages in another syntax) and to define a more specific syntax (coloring known tags, checking segment definitions with mandatory/conditionnal data...).
+
+
+For more information about EDIFACT:
+- http://www.unece.org/trade/untdid/
+- http://www.gefeg.com/jswg/index.htm
